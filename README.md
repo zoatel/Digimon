@@ -1,2 +1,3 @@
 # Digimon
-Public library management system
+A public libraries management system using java and mysql databases
+
