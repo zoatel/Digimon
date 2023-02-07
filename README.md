@@ -1,5 +1,5 @@
 # Digimon
-A public libraries management system using Java and mySQL databases<br />
+A public libraries management system using Java and mySQL databases<br/>
 ## The login page
 ![image](https://user-images.githubusercontent.com/112650080/213618397-9036a494-8fa6-46fe-9806-f174635fdc12.png)
 ## The main menu
